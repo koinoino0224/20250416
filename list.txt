@@ -1,0 +1,5 @@
+total 3
+-rw-r--r-- 1 01242002 197121 5 Apr 15 10:44 dummy.java
+-rw-r--r-- 1 01242002 197121 0 Apr 15 10:45 list.txt
+-rw-r--r-- 1 01242002 197121 6 Apr 15 10:44 main.java
+-rw-r--r-- 1 01242002 197121 5 Apr 15 10:45 test.java
